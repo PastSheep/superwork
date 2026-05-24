@@ -86,4 +86,4 @@ The design already reserves clear seams: orchestration logic, state storage, age
 
 ## License
 
-MIT
+CC BY-NC 4.0

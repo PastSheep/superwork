@@ -1,0 +1,12 @@
+{
+  "active_task": null,
+  "status": "idle",
+  "interrupted": false,
+  "round": 1,
+  "executors": [],
+  "reviewers": [],
+  "blocked_tasks": [],
+  "deferred_issues": [],
+  "created_at": null,
+  "last_updated": null
+}
